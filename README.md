@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/samarsharma353-collab/leetcode-problem/tree/master/1922-count-good-numbers) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/samarsharma353-collab/leetcode-problem/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/samarsharma353-collab/leetcode-problem/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
